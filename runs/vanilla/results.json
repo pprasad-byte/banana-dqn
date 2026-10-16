@@ -1,0 +1,9 @@
+{
+  "variant": "Vanilla",
+  "episodes_run": 1000,
+  "solved_in_episodes": 435,
+  "best_100_episode_avg": 16.81,
+  "final_100_episode_avg": 15.98,
+  "training_minutes": 35.1,
+  "seed": 0
+}
