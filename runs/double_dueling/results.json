@@ -1,0 +1,9 @@
+{
+  "variant": "Double+Dueling",
+  "episodes_run": 1000,
+  "solved_in_episodes": 408,
+  "best_100_episode_avg": 17.15,
+  "final_100_episode_avg": 16.62,
+  "training_minutes": 35.2,
+  "seed": 0
+}
